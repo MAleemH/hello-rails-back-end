@@ -83,6 +83,11 @@
 
 <!-- GETTING STARTED -->
 
+## React App
+
+There is a React application that interacts with this Random Greetings API to fetch data.
+Please visit the [GitHub repository](https://github.com/MAleemH/hello-react-front-end.git) for this React app.
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
